@@ -1,2 +1,2 @@
 # Diabetes-WebApp
-Deploy Diabetes web app on Streamlit Cloud
+Deploy Diabetes web app on the Streamlit Cloud
