@@ -1,4 +1,4 @@
 # Diabetes-WebApp
 Deploy Diabetes web app on the Streamlit Cloud
 
-In progress
+Currently, the project is in progress.
