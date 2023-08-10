@@ -12,7 +12,7 @@ import pickle
 import os
 import xgboost
 import matplotlib.pyplot as plt
-import streamlit_analytics
+
 # Get the current directory of the file (predictive.py)
 current_directory = os.path.dirname(os.path.realpath(__file__))
 # Construct the relative path to the model file within the app's directory
