@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 20 13:55:51 2023
 
-@author: shrey
+@author: Zhizhen L., Shreyes B.
 """
 
 
