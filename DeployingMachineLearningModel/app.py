@@ -12,7 +12,6 @@ import pickle
 import os
 import xgboost
 import matplotlib.pyplot as plt
-import streamlit_analytics
 from streamlit_extras.no_default_selectbox import selectbox
 from streamlit_extras.switch_page_button import switch_page
 # Get the current directory of the file (predictive.py)
