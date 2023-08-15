@@ -11,7 +11,6 @@ import pickle
 import streamlit as st
 from streamlit_extras.app_logo import add_logo
 import os
-import streamlit_extras as ste
 from streamlit_extras.no_default_selectbox import selectbox
 
 
