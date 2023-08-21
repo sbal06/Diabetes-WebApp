@@ -10,7 +10,7 @@ import numpy as np
 
 
 st.write("The development of the Personalized Meal Plans is in progress. Please be patient as we work towards its completion.")
-st.write("In the mean time, you can access the code [here](https://colab.research.google.com/drive/1HrrUQx9AgNDVeMyALq-9kacJPYarwQH5), and run it locally if you wish.")
+st.write("In the mean time, you can access the code in the GitHub page, which you can access on the upper left of your screen, and run it locally if you wish.")
 
 
 
