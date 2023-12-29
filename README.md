@@ -3,10 +3,11 @@
 ![diaaid](https://github.com/sbal06/Diabetes-WebApp/assets/101956177/cdcb507d-01da-4087-b372-66d3dfce69a4)
 
 ## Files
-The invidual code for the Machine Learning Model can be found at the (Machine Learning Model.py) file. The code for the Research-Based Model can be found at the (Research Based Model.py) file. You have to head over to the DeployingMachineLearningModel folder, then the pages folder to view the two python files.
+The invidual code for the Machine Learning Model can be found at the (Machine Learning Model.py) file. The code for the Research-Based Model can be found at the (Research Based Model.py) file. You have to head over to the DeployingMachineLearningModel folder, then the pages folder to view the two python files. 
 
-## Updates:
-- Added Personalized Meal Plans 
+## Updates
+### (8/26/23) Added Personalized Meal Plans
+File can be found under the DeployingMachineLearningModel folder, file name: PersonalizedMealPlans.py
 
 
 # License:
